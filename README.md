@@ -1,16 +1,19 @@
-## Hi there 👋
+# Vinicius Tavares Arantes
 
-<!--
-**Vineca/Vineca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Python com foco em backend, bancos de dados relacionais e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo um CRM de visitas comerciais, aplicando conhecimentos de programação, modelagem de dados, integração e persistência de informações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo mais de cinco anos de experiência em gestão empresarial, com atuação em processos financeiros, comerciais e operacionais.
+
+## Tecnologias
+
+Python · SQL · SQLite · Git · GitHub · Openpyxl
+
+## Interesses
+
+Desenvolvimento backend, automação, integração de sistemas e engenharia de software.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/vinicius-tavares-arantes-5a2427176)
